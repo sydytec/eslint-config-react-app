@@ -6,6 +6,9 @@
   "author": {
     "name": "Matheus Gambati"
   },
+  "repository": {
+    "url": "https://github.com/sydytec/eslint-config-react-app"
+  },
   "peerDependencies": {
     "eslint": ">= 5"
   },
