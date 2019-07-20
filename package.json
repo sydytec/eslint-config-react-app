@@ -6,6 +6,12 @@
   "author": {
     "name": "Matheus Gambati"
   },
+  "keywords": [
+    "eslint",
+    "react",
+    "typescript",
+    "prettier"
+  ],
   "repository": {
     "url": "https://github.com/sydytec/eslint-config-react-app"
   },
