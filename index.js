@@ -6,12 +6,12 @@ module.exports = {
     "plugin:prettier/recommended"
   ],
   rules: {
-    "react-hooks/exhaustive-deps": false,
-    "@typescript-eslint/explicit-function-return-type": false,
-    "@typescript-eslint/explicit-member-accessibility": false,
-    "@typescript-eslint/interface-name-prefix": "never",
-    "@typescript-eslint/no-use-before-define": false,
-    "@typescript-eslint/no-explicit-any": false,
+    "react-hooks/exhaustive-deps": "off",
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/explicit-member-accessibility": "off",
+    "@typescript-eslint/interface-name-prefix": "error",
+    "@typescript-eslint/no-use-before-define": "off",
+    "@typescript-eslint/no-explicit-any": "off",
     "require-await": "off"
   }
 };
